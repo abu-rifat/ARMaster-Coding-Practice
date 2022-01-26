@@ -1,2 +1,33 @@
 # ARMaster-Coding-Practice
 Competitive Programming Coding Practice Repository
+- Disjoint Sets
+- Segment Tree
+- DFS
+- BFS
+- Connected Component
+- Topological Sort
+- Bipartite Graph
+- Articulation Points
+- Bridges
+- Strongly Connected Components
+- Kruskal's Algo
+- Prim's Algo
+- Single Source Shortest Path
+- Fibonacci Number
+- Binomial Coefficients
+- Catalan Numbers
+- Prime Numbers
+- GCD
+- LCM
+- Factorial
+- Prime Factors
+- Modified Sieve
+- Modulo Arithmatics
+- Extended Euclid
+- KMP
+- Longest Common Subsequence
+- DP
+- Bitmask DP
+- Two Pointer
+- Lowest Common Ancsetor
+- Sparse Table
